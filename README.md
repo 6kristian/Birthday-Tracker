@@ -4,6 +4,7 @@
 ![Made with CS50](https://img.shields.io/badge/Made%20with-CS50-red)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![Contributions](https://img.shields.io/badge/contributions-welcome-orange)
+
 🎉 Birthday Tracker Flask App
 
 A simple yet effective web app to store and display birthdays using Flask and SQLite. Add birthdays, view the list of saved entries, and make sure you never forget your friends' special days again!
@@ -48,7 +49,7 @@ Bootstrap (optional but recommended) – for styling
 
 ⚙️ Setup & Installation
 🐍 1. Clone the Repository
-git clone https://github.com/your-username/birthday-tracker.git
+git clone https://github.com/6kristian/birthday-tracker.git
 cd birthday-tracker
 
 📦 2. Create a Virtual Environment (optional but recommended)
